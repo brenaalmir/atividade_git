@@ -1,2 +1,2 @@
 # atividade_git
-atividades de praticas do get
+atevidades de praticas do get
